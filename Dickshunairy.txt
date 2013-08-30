@@ -103,3 +103,11 @@ name;naem
 scared;skared
 nigger;nigg
 cry;cri
+know;kno
+elephant;elefent
+really;relly
+scroll;skroll
+blue;blu
+stupid;stoopid
+titties;titez
+burp;berp
